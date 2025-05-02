@@ -1,0 +1,18 @@
+h3{
+    color:red;
+}
+h2{
+    text-align: center;
+}
+button {
+   text-align: center;
+   margin: auto;
+   border-width: 10px;
+   border-style: solid;
+   border-color: blue;
+   border-radius: 500px;
+   color: beige;
+   background-color: blue;
+   display:inline-flex;
+ } 
+ # TRENDISTA-FASHION
